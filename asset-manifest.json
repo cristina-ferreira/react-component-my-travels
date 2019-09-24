@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-component-my-travels/static/css/main.63ccf09a.chunk.css",
+    "main.js": "/react-component-my-travels/static/js/main.3ab65771.chunk.js",
+    "main.js.map": "/react-component-my-travels/static/js/main.3ab65771.chunk.js.map",
+    "runtime~main.js": "/react-component-my-travels/static/js/runtime~main.fd69c776.js",
+    "runtime~main.js.map": "/react-component-my-travels/static/js/runtime~main.fd69c776.js.map",
+    "static/js/2.ec295295.chunk.js": "/react-component-my-travels/static/js/2.ec295295.chunk.js",
+    "static/js/2.ec295295.chunk.js.map": "/react-component-my-travels/static/js/2.ec295295.chunk.js.map",
+    "index.html": "/react-component-my-travels/index.html",
+    "precache-manifest.b48a978c9196934ed3b6a00166e0f0de.js": "/react-component-my-travels/precache-manifest.b48a978c9196934ed3b6a00166e0f0de.js",
+    "service-worker.js": "/react-component-my-travels/service-worker.js",
+    "static/css/main.63ccf09a.chunk.css.map": "/react-component-my-travels/static/css/main.63ccf09a.chunk.css.map"
+  }
+}
